@@ -1,0 +1,7 @@
+# Create this content in data/example_sequences/test.fasta
+"""
+>sequence1
+ATGCTAGCTAGCTGATCGATCGATCGATCG
+>sequence2
+GCTAGCTAGCTAGCTAGCTAGCTAGCTGAT
+"""
